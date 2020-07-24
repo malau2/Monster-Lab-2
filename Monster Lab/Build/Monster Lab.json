@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Game Project By Matthew & Mateo",
+"productVersion": "0.1",
+"dataUrl": "Monster Lab.data.unityweb",
+"wasmCodeUrl": "Monster Lab.wasm.code.unityweb",
+"wasmFrameworkUrl": "Monster Lab.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.6f1"
+}
